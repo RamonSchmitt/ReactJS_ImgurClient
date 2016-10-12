@@ -25,7 +25,7 @@ module.exports = React.createClass({
     </div>
   },
   renderImages: function() {
-    return this.state.images.slice(0, 20).map(function(image) {
+    return this.state.images.slice(0, 12).map(function(image) {
       return <ImagePreview key={image.id} {...image} />
     });
   },
