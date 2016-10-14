@@ -1,28 +1,14 @@
-ReactStarter
+Imgur Browser
 ====
 
-Use this as a starting point for working on chapters of the [Build Web Apps with React JS and Flux](https://www.udemy.com/learn-and-understand-reactjs/) course on Udemy.com.
+This is an imgur image browser in ReactJS with React Router and Gulp using the Imgur API.
 
 ---
 
-###Getting Started###
-
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
+#To install
 ```
-	> git clone https://github.com/StephenGrider/ReactStarter.git
-	> cd ReactStarter
-	> npm install
-	> gulp
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
+	> git clone git@github.com:RamonSchmitt/ReactJS_ImgurClient.git
+	> cd ImgurClient
 	> npm install
 	> gulp
 ```
